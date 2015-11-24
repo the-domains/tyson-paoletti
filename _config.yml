@@ -1,0 +1,28 @@
+name: Tyson Paoletti
+favicon: null
+layout_spectrum: 0.12626402475871146
+typography_spectrum: 0.7783016874454916
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6958226643037051
+  lightness: 0.8059114161878824
+  saturation: 0.6196555464994162
+  rhythmicContrast: 0.4369819392450154
+purpose: []
